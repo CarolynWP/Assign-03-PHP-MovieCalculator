@@ -12,3 +12,5 @@
 	
 	<!-- body -->
 	<body>
+		<div class="margin">
+<?php echo "<h1> Movie Calculator</h1>" ?>
