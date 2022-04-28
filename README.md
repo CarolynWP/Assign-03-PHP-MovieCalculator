@@ -1,1 +1,1 @@
-# Assign-02-PHP-MovieCalculator
+[![GitHub's Super Linter](https://github.com/CarolynWP/Assign-03-PHP-MovieCalculator/actions/workflows/main.yml/badge.svg)](https://github.com/CarolynWP/Assign-03-PHP-MovieCalculator/actions)
